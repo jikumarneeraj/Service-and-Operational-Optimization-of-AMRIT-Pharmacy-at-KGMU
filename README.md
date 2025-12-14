@@ -1,11 +1,10 @@
 # Service and Operational Optimization of AMRIT Pharmacy at KGMU
 
-## Business Data Management – Capstone Project (Final Report)
+## Business Data Management – Capstone Project
 
 **Author:** Neeraj Kumar  
-**Program:** IIT Madras – Online BS Degree Program  
+**Program:** IIT Madras – BS Degree Program  
 **Email:** 23F2002096@ds.study.iitm.ac.in  
-**Submission Date:** 03 October 2025  
 
 ---
 
@@ -89,5 +88,3 @@ This capstone project applies data-driven analysis to study sales patterns, inve
 - **Data Format:** Excel (.xlsx)  
 
 ---
-
-## Repository Structure
